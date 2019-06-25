@@ -15,7 +15,7 @@
 |Project Name                      |Version      |Link to download                                                  |
 |:--------------------------------:|:-----------:|:----------------------------------------------------------------:|
 |Apache Sling      |Version 2.20.0  |https://projects.apache.org/project.html?sling          |
-|Apache Commons Lang        |Version 3.9|https://projects.apache.org/project.html?commons-lang            |  
+|Apache Commons Lang        |Version 3.8|https://projects.apache.org/project.html?commons-lang            |  
 |Apache Commons Collections                        |Version 4.3|https://projects.apache.org/project.html?commons-collections|
 |Apache Commons Math                |Version 3.6.1  |https://projects.apache.org/project.html?commons-math                      |
 |JFreeChart         |Version 1.0.19  |https://sourceforge.net/projects/jfreechart/files/1.%20JFreeChart/             |
