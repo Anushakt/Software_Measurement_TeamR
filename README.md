@@ -1,4 +1,4 @@
-## Software Measurement Project - SOEN6611-2191-A (Summer 2019)
+## *Software Measurement Project - SOEN6611-2191-A (Summer 2019)*
 # Analysis and Correlation of Metrics
 ### Professor: Dr.Jinqiu Yang
 
